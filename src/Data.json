@@ -1,0 +1,421 @@
+{
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "imgLink": "/images/section/hero-img.jpg",
+      "title": "Alphred <br/> TATONG",
+      "subTitle": "Bonjour, je suis",
+      "designation": "Concepteur / Developpeur"
+    },
+    "homeTwoHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "title": "Salut, je suis<span>Alphred TATONG</span>",
+      "text": "Je suis développeur fullstack spécialisé dans la création d'applications de gestion, notamment les dashboards et les backends performants. J'apporte des solutions robustes et évolutives pour répondre à vos besoins métiers."    
+    },
+    "homeThreeHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-1.jpg",
+      "title": "Salut, je suis<span>Alphred TATONG</span>",
+      "text": "Je suis développeur fullstack spécialisé dans la création d'applications de gestion, notamment les dashboards et les backends performants. J'apporte des solutions robustes et évolutives pour répondre à vos besoins métiers."
+    },
+    "homeFourHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-2.jpg",
+      "title": "Salut, je suis<span>Alphred TATONG</span>",
+      "text": "Je suis développeur fullstack spécialisé dans la création d'applications de gestion, notamment les dashboards et les backends performants. J'apporte des solutions robustes et évolutives pour répondre à vos besoins métiers."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Bonjour ! Je suis Alphred TATONG",
+    "subtitle": "Développeur Fullstack",
+    "text": "Développeur fullstack avec une expertise dans la création d'applications de gestion, je conçois des dashboards modernes et des backends robustes pour optimiser vos processus métiers.",
+    "details": [
+      {
+        "title": "Date de naissance",
+        "info": "31 Juillet, 2002"
+      },
+      {
+        "title": "Téléphone",
+        "info": "+237 6 51 13 84 33"
+      },
+      {
+        "title": "Email",
+        "info": "alphredtatong@gmail.com"
+      },
+      {
+        "title": "Adresse",
+        "info": "Douala, Cameroun"
+      },
+      {
+        "title": "Langues",
+        "info": "Français, Anglais(debutant)"
+      },
+      {
+        "title": "Freelance",
+        "info": "Disponible"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "./images/icon/icon1.png",
+        "title": "Développement Fullstack",
+        "text": "Applications web complètes avec bases de données.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/icon/icon2.png",
+        "title": "Conception de Dashboard",
+        "text": "Création de dashboards interactifs et intuitifs.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/icon/icon3.png",
+        "title": "Design Produit",
+        "text": "Développement de designs produits innovants et adaptés à vos besoins.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/icon/icon4.png",
+        "title": "Développement Backend",
+        "text": "Création de backends performants et évolutifs.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/icon/icon5.png",
+        "title": "Intégration Frontend",
+        "text": "Intégration de designs modernes et réactifs.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/icon/icon6.png",
+        "title": "Design Responsive",
+        "text": "Conception de sites et applications adaptés à tous les supports numériques.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "Compétences principales",
+    "text": "Voici les compétences que j'ai acquises au cours de mes études et de mes premiers projets professionnels.",
+    "skills": [
+      {
+        "title": "Développement web (HTML, CSS, JavaScript, PHP)",
+        "progress": "70%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Frameworks (Laravel, CodeIgniter, Vue.js)",
+        "progress": "65%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "250"
+      },
+      {
+        "title": "Bases de données (MySQL, SQLite)",
+        "progress": "60%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Git / GitHub",
+        "progress": "65%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "Infographie (Photoshop, Canva)",
+        "progress": "55%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "450"
+      }
+
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Stockly",
+        "subTitle": "Dévéloppement / Gestion de stock",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200",
+        "link": "https://stockly.instimanage.com/"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "MediTrack",
+        "subTitle": "Dévéloppement / Suivis des patients",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300",
+        "link": "https://instimanage.com/"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Instimanage",
+        "subTitle": "Dévéloppement / Gestion des notes",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400",
+        "link": "https://insti.instimanage.com/"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Gespaye",
+        "subTitle": "Dévéloppement / Gestion de la paie",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500",
+        "link": "https://gespaye.instimanage.com/"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Flyers TechGenius",
+        "subTitle": "Design / Production de flyers",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Logo NovaTechGenius",
+        "subTitle": "Design / Réalisation de logo",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"     
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Quelles sont les dernières tendances en design graphique selon vous ?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Quelles sont les dernières tendances en design graphique selon vous ?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Les tendances du design graphique selon vous ?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "Richard Miles",
+        "designation": "Président",
+        "text": "Un travail exceptionnel, très professionnel et à l’écoute de nos besoins. Je recommande vivement !"
+      },
+      {
+        "imgLink": "./images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Directrice exécutive",
+        "text": "Créatif, réactif et force de proposition. Une vraie valeur ajoutée pour notre projet."
+      },
+      {
+        "imgLink": "./images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Directeur général",
+        "text": "Très satisfait du résultat final. Le design correspond parfaitement à nos attentes."
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Expérience",
+    "experience": [
+      {
+        "title": "Projet de fin d’études",
+        "duration": "2024",
+        "subTitle": "Application de gestion des patients",
+        "text": "Suivi des patients, gestion des rendez-vous et dossiers médicaux avec Vue.js & Laravel."
+      },
+      {
+        "title": "Projet personnel",
+        "duration": "2023 - 2024",
+        "subTitle": "Application de gestion des notes - ISN Mbouda",
+        "text": "Développement et déploiement d’une application de gestion des notes avec CodeIgniter et SQLite à l’ISN de Mbouda."
+      },
+      {
+        "title": "Stage en développement Web",
+        "duration": "2023",
+        "subTitle": "Envol | Learn And Travel, Bafoussam",
+        "text": "Conception et développement d’une application de gestion de la paie du personnel avec CodeIgniter."
+      },
+      {
+        "title": "Stage en développement Web",
+        "duration": "2022",
+        "subTitle": "Envol | Learn And Travel, Bafoussam",
+        "text": "Développement d’une application web PHP/MySQL avec implémentation de tests unitaires."
+      },
+      {
+        "title": "Stage en maintenance informatique",
+        "duration": "2019",
+        "subTitle": "Electronic Line, Mbouda",
+        "text": "Diagnostic, résolution de pannes et configuration réseau."
+      }
+    ],
+    "educationTitle": "Formation",
+    "education": [
+      {
+        "title": "Ingénierie en Informatique",
+        "duration": "2024 - en cours",
+        "subTitle": "École Nationale Supérieure Polytechnique de Douala",
+        "text": "Spécialisation en génie logiciel."
+      },
+      {
+        "title": "Licence technologique en Informatique",
+        "duration": "2023 - 2024",
+        "subTitle": "IUT-FV de Bandjoun",
+        "text": "Formation en Qualité, Sécurité et Réseau Informatique."
+      },
+      {
+        "title": "BTS en Informatique",
+        "duration": "2021 - 2023",
+        "subTitle": "IUEs/INSAM Bafoussam",
+        "text": "Formation en Gestion des Systèmes d’Information (GSI)."
+      },
+      {
+        "title": "Baccalauréat en Technologie de l’Information (TI)",
+        "duration": "2020 - 2021",
+        "subTitle": "Lycée Bilingue de Mbouda",
+        "text": "Base de l'informatique (développement, infographie et maintenance)"
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Dites simplement Bonjour",
+    "title": "Informations de contact",
+    "subTitle": "Visitez mon profil social et connectons-nous",
+    "text": "N’hésitez pas à me contacter pour toute demande ou collaboration."
+  },
+  "socialData2": [
+    {
+      "icon": "dribbble",
+      "title": "Dribbble",
+      "link": "/"
+    },
+    {
+      "icon": "behance",
+      "title": "Behance",
+      "link": "/"
+    },
+    {
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "/"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "/"
+    }
+  ],
+  "socialData": [
+    {
+      "icon": "facebook-f",
+      "title": "Facebook",
+      "link": "https://www.facebook.com/profile.php?id=61565672294350"
+    },
+    {
+      "icon": "github",
+      "title": "GitHub",
+      "link": "https://github.com/Alphatechn"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/alphred-tatong-2319a332a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    }
+  ]
+}
+
